@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import org.junit.jupiter.api.Test;
 
-public class StateMachineTests {
+public class RobotMovementTests {
 
     @Test
     public void triggerStateMachineShouldExecuteInstructionsInCorrectOrder() {

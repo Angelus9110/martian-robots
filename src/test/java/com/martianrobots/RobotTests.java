@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import org.junit.jupiter.api.Test;
 
-public class RobotStateTests {
+public class RobotTests {
 
     @Test
     public void getOrientationShouldReturnRobotStateCurrentOrientation() throws Exception {
